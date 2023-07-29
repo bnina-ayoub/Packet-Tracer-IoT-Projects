@@ -2,7 +2,7 @@
 
 * Creating a simple network
 * Connecting to a Home Gateway and Monitoring Network
-* Adding IoT Devices to the Network
+* Adding IoT devices to the Network
 * Programming an MCU to blink some LEDs
 * Exploring the Smart Home
 * Configuring Wireless Security
