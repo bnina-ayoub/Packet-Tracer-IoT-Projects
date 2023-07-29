@@ -1,5 +1,7 @@
 # IoT Programming and Networking Projects
 
+The projects in this repository were created using the Cisco Packet Tracer simulator provided by cisco. Packet Tracer is a free, easy-to-use tool that allows you to simulate networks and devices. You can use Packet Tracer to create your projects because it is a great way to learn about IoT programming and networking without having to use real hardware.
+
 * Creating a simple network
 * Connecting to a Home Gateway and Monitoring Network
 * Adding IoT devices to the Network
